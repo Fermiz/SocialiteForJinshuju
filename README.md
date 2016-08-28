@@ -12,6 +12,7 @@ A PHP laravel framework for Jinshuju based on Socialite.（原作者：[Taylor O
 ## 开发文档
 
 原始文档：[Laravel Socialite](https://github.com/laravel/socialite).
+
 相关文档：[金数据api文档](https://github.com/jinshuju/jinshuju-api-docs)
 
 ### 安装
