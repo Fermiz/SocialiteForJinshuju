@@ -60,6 +60,8 @@ APP_DOMAIN= '应用的域名'
 
 ### 调用方法
 
+使用方法前需要controller中引入`use Socialite`;
+
 ```php
 使用`Socialite::driver('jinshuju')->rediect()`获取code并回调;
 使用`Socialite::driver('jinshuju')->user()`取得accesstoken;
