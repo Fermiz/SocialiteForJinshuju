@@ -17,7 +17,9 @@ Socialite：PHP Laravel框架下基于OAuth2.0的api接口调用包
 
 在 `composer.json` 中添加依赖 dependency:
 
-composer require laravel/socialite
+`composer require Fermiz/SocialiteForJinshuju`
+
+(也可以使用`composer require laravel/socialite`获取原始的包进行覆盖）
 
 ### 配置
 
