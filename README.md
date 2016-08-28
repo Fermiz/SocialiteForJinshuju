@@ -1,9 +1,7 @@
 # 金数据表单应用开发Laravel/socialite接口包
 A PHP laravel framework for Jinshuju based on Socialite.（原作者：[Taylor Otwell](https://github.com/laravel/socialite))
 
-# Laravel Socialite
-
-一个PHP Laravel框架下基于OAuth2.0的api接口调用包
+Socialite：PHP Laravel框架下基于OAuth2.0的api接口调用包
 
 ## 介绍
 
